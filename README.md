@@ -5,3 +5,5 @@
 |[Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)|iOS 风格的时间、地址选择器|![](./images/Android-PickerView.gif)|
 |[SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView)|圆角可定制的 ImageView|![](./images/SelectableRoundedImageView.png)|
 |[dialogplus](https://github.com/orhanobut/dialogplus)|各种各样的弹窗，可定制|![](./images/dialogplusanim.gif) ![](./images/dialogplusanim_2.gif)|
+|[Android AppMsg](https://github.com/johnkil/Android-AppMsg)|替代 Toast|![](./images/AppMsg.png)|
+|[SlideDateTimePicker]()|时间日期选择器|![](./images/SlideDateTimePicker_1.png)![](./images/SlideDateTimePicker_2.png)|
