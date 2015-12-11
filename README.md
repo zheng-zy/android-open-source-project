@@ -1,6 +1,6 @@
 ## 控件
 
-|Name|description|Demo|
+|Name|Description|Demo|
 |:---:|:---|:---:|
 |[FlexibleRatingBar](https://github.com/Amagi82/FlexibleRatingBar)|系统的Ratingbar太难用了，该控件的可定制化更好|![](./images/FlexibleRatingBar.png)|
 |[AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)|标签云，支持编辑添加标签|![](./images/AndroidTagGroup.jpg)|
@@ -12,6 +12,6 @@
 
 ## 网络库
 
-|Name|description|
+|Name|Description|
 |:---:|:---|
 |[android-async-http](https://github.com/loopj/android-async-http)|很强大的异步网络库，网络访问在非 UI 线程中执行，在 UI 线程中回调。|
