@@ -17,6 +17,7 @@
 |Name|Description|
 |:---:|:---|
 |[android-async-http](https://github.com/loopj/android-async-http)|很强大的异步网络库，网络访问在非 UI 线程中执行，在 UI 线程中回调。|
+|[retrofit](https://github.com/square/retrofit)|如果服务端的 API 符合Restful 规范，用这个库写很爽|
 
 ## JSON 解析
 
