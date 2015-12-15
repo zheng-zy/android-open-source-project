@@ -30,7 +30,7 @@
 
 |Name|Description|
 |:---:|:---|
-|[base-adapter-helper]()|BseAdapter的封装类，对其进行了高度封装。用户只需要关注逻辑即可，不需要写重复的代码|
+|[base-adapter-helper](https://github.com/JoanZapata/base-adapter-helper)|BseAdapter的封装类，对其进行了高度封装。用户只需要关注逻辑即可，不需要写重复的代码|
 
 ## 图片加载
 
