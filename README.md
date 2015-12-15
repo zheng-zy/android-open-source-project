@@ -16,6 +16,7 @@
 
 |Name|Description|
 |:---:|:---|
+|[Volley](https://android.googlesource.com/platform/frameworks/volley)|Google 自家的网络库，适合大并发、小流量的场景使用|
 |[android-async-http](https://github.com/loopj/android-async-http)|很强大的异步网络库，网络访问在非 UI 线程中执行，在 UI 线程中回调。|
 |[retrofit](https://github.com/square/retrofit)|如果服务端的 API 符合Restful 规范，用这个库写很爽|
 
@@ -35,8 +36,19 @@
 
 |Name|Description|
 |:---:|:---|
-|UIL||
-|Glide||
-|Picaso||
+|[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)|著名的 UIL，定制化很高|
+|[Picaso](https://github.com/square/picasso)|Square 公司开源的图片加载框架。其 API 为链式，使用方便|
+|[Glide](https://github.com/bumptech/glide)|Google 推荐的图片加载框架，性能比 [Picaso](https://github.com/square/picasso) 好|
 
 ## ORM
+
+|Name|Description|
+|:---:|:---|
+|[ActiveAndroid](https://github.com/pardom/ActiveAndroid)|我使用的第一款 ORM 框架，其 API 调用方式简单，可读性高|
+|[realm-java](https://github.com/realm/realm-java)|NoSQL 数据库，性能比 SQLite 好|
+
+## 注解
+
+|Name|Description|
+|:---:|:---|
+|[butterknife](https://github.com/JakeWharton/butterknife)|是不是觉得写 `findViewById()` 很麻烦，它可以帮助你从重复的工作中解放出来|
