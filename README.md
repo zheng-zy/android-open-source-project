@@ -58,6 +58,7 @@
 |[MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout)|PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] state in Activity, Fragment, ViewGroup as you want.|![](./images/MaterialPageStateLayout.gif)|
 |[android-empty-layout](https://github.com/alamkanak/android-empty-layout)|A library for showing different types of layouts when a list view is empty|![](./images/android_empty_layout.png)|
 |[AndroidProgressLayout](https://github.com/antonkrasov/AndroidProgressLayout)|Android View to simplify working with ProgressBar|![](./images/AndroidProgressLayout.gif)|
+|[MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)|一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图。|![](./images/MultipleStatusView.gif)|
 
 ### 日历
 
