@@ -36,6 +36,7 @@
 |Name|Description|Demo|
 |:---:|:---|:---:|
 |[ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)|ViewPager翻页时的指示器|![](./images/ViewPagerIndicator.png)|
+|[IndicatorVIew](https://github.com/xzwszl/IndicatorVIew)|A good indicator widget for show the current status or position of Items in ViewPager and other ViewContainers.|![](./images/IndicatorVIew.gif)|
 
 ### 圆角 ImageView
 
